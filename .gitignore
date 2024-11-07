@@ -25,6 +25,7 @@ out/
 .springBeans
 .sts4-cache
 bin/
+!**/실행파일/javafx-sdk-19/bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
